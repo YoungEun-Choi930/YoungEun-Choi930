@@ -4,16 +4,21 @@
   
 
   <h3>🧸YoungEun Choi🧸</h3>
-  <p>🏫ChangWon National Univ</p>
-  <p>Computer Engineering</p>
-  <a href="https://www.instagram.com/sveun.cy" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <p>🎓Computer Engineering, ChangWon National University (2019.03~)</p>
+  
+  <a href="https://www.instagram.com/sveun.cy" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-  
-  <h3>📌Language📌</h3>
-  <a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-  
-  <h3>⌨️Tools🖱</h3>
-  <a target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+  <br>
+  <h3>⌨️Tech Stack🖱</h3>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+  <br> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
 
 <!--
