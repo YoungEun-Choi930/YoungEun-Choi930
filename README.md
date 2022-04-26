@@ -1,15 +1,15 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:FFC0CB&height=100&section=header&text=Thanks%20for%20coming&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:FFC0CB&height=120&section=header&text=Thanks%20for%20coming&fontSize=60)
   
 
-  <h3>🧸YoungEun Choi🧸</h3>
-  <p>🎓Computer Engineering, ChangWon National University (2019.03~)</p>
+  <h3>🧸 YoungEun Choi 🧸</h3>
+  <p>🎓 Computer Engineering, ChangWon National University (2019.03~)</p>
   
   <a href="https://www.instagram.com/sveun.cy" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
   <br>
-  <h3>⌨️Tech Stack🖱</h3>
+  <h3>⌨️ Tech Stack 🖱</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <br>
