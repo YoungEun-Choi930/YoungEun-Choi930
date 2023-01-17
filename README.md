@@ -7,8 +7,8 @@
   <p>🎓 Computer Engineering, ChangWon National University (2019.03~2023.02)</p>
   <p>💙 SSAFY 9th (2023.01~)</p>
   
-  <a href="https://www.instagram.com/sveun.cy" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sveun.cy" target="_blank"><img src="https://img.shields.io/badge/duddms0190@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+  <a href="https://www.instagram.com/circleun_wend" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/circleun_wend" target="_blank"><img src="https://img.shields.io/badge/duddms0190@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   
   <br>
   <br>
@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
   
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungEun-Choi930&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungEun-Choi930&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
   <br>
   <br>
@@ -45,8 +45,8 @@
   <br>
   <br>
   
-  
-  [![YoungEun-Choi930's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungEun-Choi930)](https://github.com/YoungEun-Choi930/github-readme-stats)
+  ![YoungEun-Choi930's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungEun-Choi930&show_icons=true&theme=transparent)
+
 
   
 </div>
