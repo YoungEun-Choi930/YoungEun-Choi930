@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:EEFF00,100:FFC0CB&height=190&section=header&text=YoungEun%20Choi&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20coming!&descAlignY=60&descAlign=67)
 
-<h1 align="left">Hi 👋, This is YoungEun Choi</h1>
+<h1 align="left">Hi 👋, This is YoungEun Choi 🧸</h1>
 
 - 🔭 I’m currently working on **SSAFY 9th**
 
@@ -18,7 +18,7 @@
 - 📫 How to reach me **duddms0190@naver.com**
 
 <br />
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
 
   <a>📕 Language | </a>
@@ -47,17 +47,14 @@
 </p>
 
 <br />
-<h3 align="left"> My github stats</h3>
-<br />
+<h3 align="left">👀 My github stats</h3>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngeun-choi930&show_icons=true&theme=dracula&locale=en" alt="youngeun-choi930" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngeun-choi930&theme=onedark" alt="youngeun-choi930" /></p>
 
 <br />
-<h3 align="left"> My Solved.ac stats</h3>
-
-
-<br />
+<h3 align="left">🔥 My Solved.ac stats</h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190) 
 ![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=duddms0190&theme=dark)
