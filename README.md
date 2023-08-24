@@ -2,9 +2,7 @@
   
 🔭 I’m currently working on **SSAFY 9th**
 
-🌱 I’m currently learning **Spring**
-
-👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at here 
   <a href="https://www.notion.so/PORTFOLIO-80483a3fd86f49329c4862784368235b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="30" width="30" /></a>
   <a href="https://velog.io/@euuuunii" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg" height="30" width="30" /></a>
   
@@ -17,6 +15,9 @@
   <a>📕 Language | </a>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <!--<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">-->
 
   <a>📙 Backend | </a>
@@ -27,7 +28,9 @@
   
   <a>📒 Framework | </a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
   <a>📗 Tools | </a>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -37,14 +40,15 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 
   
-  <a>📘 Currently Studing | </a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <br />
+
+<!--
+
+
+  <a>📘 Currently Studing | </a>
+  
 <h3 align="left">🔥 My Solved.ac stats</h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190) 
