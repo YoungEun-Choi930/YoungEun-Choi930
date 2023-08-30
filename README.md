@@ -2,11 +2,15 @@
   
 🔭 I’m currently working on **SSAFY 9th**
 
+🌐 I graduated from **창원대학교 - 컴퓨터공학과** (2019.03 ~ 2023.02)
+
 👨‍💻 All of my projects are available at here 
   <a href="https://www.notion.so/PORTFOLIO-80483a3fd86f49329c4862784368235b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="30" width="30" /></a>
+  <!--
   <a href="https://velog.io/@euuuunii" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg" height="30" width="30" /></a>
+  !-->
   
-📫 How to reach me **duddms0190@naver.com**
+📫 How to reach me _duddms0190@naver.com_
 
 <br />
 <h3 align="left">🛠 Languages and Tools</h3>
@@ -39,20 +43,26 @@
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 
+  <a>📘 Collaboration tools | </a>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
+
   
-</p>
 
 <br />
+<h3 align="left">🔥 Solved.ac profile</h3>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190) 
 
 <!--
 
 
-  <a>📘 Currently Studing | </a>
   
-<h3 align="left">🔥 My Solved.ac stats</h3>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddms0190)](https://solved.ac/duddms0190) 
 ![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=duddms0190&theme=dark)
+
 <br />
 
 
