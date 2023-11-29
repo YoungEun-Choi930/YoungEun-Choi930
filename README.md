@@ -3,8 +3,7 @@
 ### 👋 Introduce
 
 > 안녕하세요, 풀스택을 향해 나아가는 개발자 **최영은** 입니다.
-
-about me : <a href="https://www.notion.so/PORTFOLIO-80483a3fd86f49329c4862784368235b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="25" width="25" /></a>  
+about me : <a href="https://grandiose-chocolate-e65.notion.site/PORTFOLIO-80483a3fd86f49329c4862784368235b?pvs=4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" height="25" width="25" /></a>  
 email : _duddms0190@naver.com_
 
 ### 💙 Profile
