@@ -9,6 +9,7 @@ email : _duddms0190@naver.com_
 
 ### 💙 Profile
 
+삼성 청년 SW 아카데미 10기 코치 (2023.12 ~2024.05)  
 삼성 청년 SW 아카데미 9기 (2023.01 ~2023.12)  
 창원대학교 - 컴퓨터공학과 (2019.03 ~ 2023.02)  
 
@@ -28,6 +29,7 @@ email : _duddms0190@naver.com_
 📙 Backend |
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
