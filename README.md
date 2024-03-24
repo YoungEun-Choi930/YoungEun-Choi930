@@ -11,8 +11,6 @@ email : _duddms0190@naver.com_
 
 삼성 청년 SW 아카데미 10기 코치 (2023.12 ~2024.05)  
 삼성 청년 SW 아카데미 9기 (2023.01 ~2023.12)  
-창원대학교 - 컴퓨터공학과 (2019.03 ~ 2023.02)  
-
 ### 🖤 Project
 
 [SSAFYWIKI](https://github.com/YoungEun-Choi930/SSAFY-WIKI) : SSAFY 자율 프로젝트 (우수상, 2위, 2023.11.17)  
