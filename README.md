@@ -11,6 +11,8 @@ email : _duddms0190@naver.com_
 
 삼성 청년 SW 아카데미 10기 코치 (2023.12 ~2024.05)  
 삼성 청년 SW 아카데미 9기 (2023.01 ~2023.12)  
+CMC 15기
+
 ### 🖤 Project
 
 [SSAFYWIKI](https://github.com/YoungEun-Choi930/SSAFY-WIKI) : SSAFY 자율 프로젝트 (우수상, 2위, 2023.11.17)  
