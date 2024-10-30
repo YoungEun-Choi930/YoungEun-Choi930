@@ -9,13 +9,17 @@ email : _duddms0190@naver.com_
 
 ### 💙 Profile
 
-CMC 15기 Web (2024.05 ~ 2024.09)  
+CMC 16기 Web Lead (2024.10 ~)  
+CMC 15기 Web Challenger (2024.05 ~ 2024.09)  
 삼성 청년 SW 아카데미 10기 코치 (2023.12 ~ 2024.05)  
 삼성 청년 SW 아카데미 9기 (2023.01 ~ 2023.12)  
 
 ### 🖤 Project
 
-[PreviewInsure](https://github.com/Central-MakeUs/PreviewInsure-Web) : CMC 15th (인기상, [웹페이지](https://previewinsure.vercel.app/), 2024.09.07)   
+[PreviewInsure](https://github.com/Central-MakeUs/PreviewInsure-Web) : CMC 15th (인기상, 2024.09.07,
+[웹페이지](https://previewinsure.vercel.app/), 
+[Android](https://play.google.com/store/apps/details?id=com.previewinsure.android),
+[IOS](https://apps.apple.com/kr/app/%ED%94%84%EB%A6%AC%EB%B7%B0%EC%9D%B8%EC%8A%88/id6587559820))   
 [SSAFYWIKI](https://github.com/YoungEun-Choi930/SSAFY-WIKI) : SSAFY 자율 프로젝트 (우수상, 2위, 2023.11.17)  
 [주식매매일지](https://github.com/YoungEun-Choi930/antoday) : SSAFY 특화 프로젝트 (우수상, 3위, 2023.10.06)  
 [마약예방프로젝트](https://github.com/YoungEun-Choi930/URNotWeak) : SSAFY 공통 프로젝트 (우수상, 3위, 2023.08.18)  
