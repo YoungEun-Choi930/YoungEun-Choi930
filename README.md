@@ -9,12 +9,13 @@ email : _duddms0190@naver.com_
 
 ### 💙 Profile
 
-삼성 청년 SW 아카데미 10기 코치 (2023.12 ~2024.05)  
-삼성 청년 SW 아카데미 9기 (2023.01 ~2023.12)  
-CMC 15기
+CMC 15기 Web (2024.05 ~ 2024.09)  
+삼성 청년 SW 아카데미 10기 코치 (2023.12 ~ 2024.05)  
+삼성 청년 SW 아카데미 9기 (2023.01 ~ 2023.12)  
 
 ### 🖤 Project
 
+[PreviewInsure](https://github.com/Central-MakeUs/PreviewInsure-Web) : CMC 15th (인기상, [웹페이지](https://previewinsure.vercel.app/), 2024.09.07)   
 [SSAFYWIKI](https://github.com/YoungEun-Choi930/SSAFY-WIKI) : SSAFY 자율 프로젝트 (우수상, 2위, 2023.11.17)  
 [주식매매일지](https://github.com/YoungEun-Choi930/antoday) : SSAFY 특화 프로젝트 (우수상, 3위, 2023.10.06)  
 [마약예방프로젝트](https://github.com/YoungEun-Choi930/URNotWeak) : SSAFY 공통 프로젝트 (우수상, 3위, 2023.08.18)  
@@ -25,7 +26,9 @@ CMC 15기
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+
 📙 Backend |
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -34,10 +37,12 @@ CMC 15기
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  
+
 📒 Frontend |
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  
 
 <!--
